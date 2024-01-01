@@ -1,5 +1,7 @@
 Mini-Project Goal: Heart Disease Predictive Model Project: 
- 1. Applied Neural Networks to work on Heart Disease Predictive Model to demonstrate the application of AI in healthcare analytics. 
+
+ 1. Applied Neural Networks to work on Heart Disease Predictive Model to demonstrate the application of AI in healthcare analytics.
+    
  2. Contributed to the development of a predictive model that aids in the early detection of heart disease using relevant data and machine learning algorithms.
     
 Major-Project Goal: Image Classification Project: 
