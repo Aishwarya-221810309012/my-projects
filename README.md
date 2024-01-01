@@ -6,9 +6,9 @@ Mini-Project Goal: Heart Disease Predictive Model Project:
     
 Major-Project Goal: Image Classification Project: 
 
- 1.Created a Neural Network for image classification specifically  to distinguish  between images with and without masks. 
+ 1. Created a Neural Network for image classification specifically  to distinguish  between images with and without masks. 
  
- 2.Leveraged machine learning techniques to build a model capable of classifying images into the categories "mask" and "without_masks." 
+ 2. Leveraged machine learning techniques to build a model capable of classifying images into the categories "mask" and "without_masks." 
  
 Technologies used: Python,Jupyter Notebook,Google Collab.
 
