@@ -3,6 +3,7 @@ Mini-Project Goal: Heart Disease Predictive Model Project:
  2. Contributed to the development of a predictive model that aids in the early detection of heart disease using relevant data and machine learning algorithms.
     
 Major-Project Goal: Image Classification Project: 
+
  1.Created a Neural Network for image classification specifically  to distinguish  between images with and without masks. 
  2.Leveraged machine learning techniques to build a model capable of classifying images into the categories "mask" and "without_masks." 
  
