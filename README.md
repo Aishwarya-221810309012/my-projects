@@ -20,5 +20,9 @@ Dataset For Image classification Project :https://drive.google.com/drive/folders
 
 Project Status:Completed
 
+ SQL Project: Data Cleaning
+ In this project, I have taken a raw housing data and transform the data into Microsoft SQL server and performed data cleaning operations.
+Project Status: Completed
+
 
 
