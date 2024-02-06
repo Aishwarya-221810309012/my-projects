@@ -24,5 +24,6 @@ Project Status:Completed
  In this project, I have taken a raw housing data and transform the data into Microsoft SQL server and performed data cleaning operations.
 Project Status: Completed
 
-
+POWER BI Dashboard Project:
+Worked on Superstore dataset to visualize the data and drawn the insights.
 
